@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com"
+
+[[mods]]
+modId="timebubble"
+version="${file.jarVersion}"
+displayName="Time Bubble"
+description="A Re:AcademyCraft add-on adding the Time Bubble temporal ability."
+authors="toaru"
+displayURL="https://github.com"
+credits="Re:AcademyCraft by pinchan4273"
+logoFile=""
+
+[[dependencies.timebubble]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.timebubble]]
+modId="reacademycraft"
+mandatory=true
+versionRange="[1.5.0,)"
+ordering="AFTER"
+side="BOTH"

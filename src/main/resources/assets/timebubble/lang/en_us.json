@@ -1,0 +1,5 @@
+{
+  "ability.timebubble.temporal": "Temporal",
+  "skill.timebubble.time_bubble": "Time Bubble",
+  "skill.timebubble.time_bubble.desc": "Create a temporal field that heavily slows hostile entities and projectiles within 8 blocks for 5 seconds. Cost: 35 CP. Cooldown: 30s."
+}
